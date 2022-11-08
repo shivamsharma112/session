@@ -1,2 +1,2 @@
 # session
-This repository create for practice.
+This repository created for practice.
